@@ -1,0 +1,27 @@
+_repo: Sketches-of-Imposture-Deception-and-Credulity_61993
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Davenport, R. A. (Richard Alfred)
+    alias: Davenport, Richard Alfred
+    deathdate: 1852
+    gutenberg_agent_id: '51716'
+    url: http://www.gutenberg.org/2009/agents/51716
+    wikipedia: https://en.wikipedia.org/wiki/Richard_Alfred_Davenport
+description: ''
+gutenberg_issued: '2020-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61993'
+  lccn: '16007484'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Common fallacies'
+- !lcc 'AZ'
+- !lcsh 'Impostors and imposture'
+- GITenberg
+title: Sketches of Imposture, Deception, and Credulity
+url: http://www.gutenberg.org/ebooks/61993
